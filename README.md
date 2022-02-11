@@ -18,8 +18,6 @@
 
 <div align="center">
 
-<img src="https://daffodil.apache.org/assets/themes/apache/img/apache-daffodil-logo.svg" height="85" alt="Apache Daffodil"/>
-
 # Apache Daffodil VS Code Extension
 
 [![Unit Tests](https://github.com/apache/daffodil-vscode/workflows/Unit%20Tests/badge.svg)](https://github.com/apache/daffodil-vscode/actions/workflows/tests.yml)
